@@ -1,2 +1,2 @@
 # Jenkins-Task
-Jenkins GitHub integration test
+New commit for Jenkins trigger test
